@@ -1,2 +1,6 @@
-# get-lost-hombre
-Mini JavaScript Platform Jumper Game for JS13KGames 2017
+# Jumpy Mike
+A small HTML game borrowing from Chrome's T-Rex game
+
+http://cawoodm.github.io/jumpy-mike/
+
+![Screenshot](mike.jpg)
